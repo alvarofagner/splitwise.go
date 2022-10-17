@@ -8,6 +8,7 @@ type Client interface {
 	Users
 	Groups
 	Friends
+	Categories
 }
 
 const (
